@@ -11,6 +11,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
@@ -21,7 +22,7 @@
 | [tenantlayer](https://github.com/Hariomlokhande-coder/tenantlayer) | Multi-tenant isolation for Spring Boot + Postgres using Row-Level Security | Java, Spring Boot, PostgreSQL |
 | [Banking-Portal](https://github.com/Hariomlokhande-coder/Banking-Portal) | Banking API with JWT + OTP auth, accounts and transactions | Java, Spring Boot, Docker |
 | [Identity-and-Access-Management](https://github.com/Hariomlokhande-coder/Identity-and-Access-Management) | Authentication, authorization and RBAC service | Java, Spring Boot |
-| [polygon-indexer](https://github.com/Hariomlokhande-coder/polygon-indexer) | Real-time Polygon blockchain indexer with netflow dashboard | TypeScript |
+| [ChatApp](https://github.com/Hariomlokhande-coder/ChatApp) | Real-time chat with groups, presence and JWT auth with refresh tokens | C#, .NET 8, SignalR, Angular, SQL Server |
 | [Fake-Payment-Screenshot-Detector](https://github.com/Hariomlokhande-coder/Fake-Payment-Screenshot-Detector) | Detects fake payment screenshots with ML + OCR | Python, Flask, MongoDB |
 | [MOVIE-TICKET-BOOKING](https://github.com/Hariomlokhande-coder/MOVIE-TICKET-BOOKING) | Movie browsing and ticket booking backend with JWT auth | Python, Django |
 
@@ -33,7 +34,6 @@
 | [DEEP_FAKE_RADAR](https://github.com/Hariomlokhande-coder/DEEP_FAKE_RADAR) | Deepfake detection tool | JavaScript, AI |
 | [AGI-DESKTOP-ASSISTANT](https://github.com/Hariomlokhande-coder/AGI-DESKTOP-ASSISTANT) | Python desktop AI assistant for voice and task automation | Python |
 | [Fake-Payment-Screenshot-Detector](https://github.com/Hariomlokhande-coder/Fake-Payment-Screenshot-Detector) | Detects fake payment screenshots with ML + OCR | Flask, ML, OCR, MongoDB |
-| [ChatApp](https://github.com/Hariomlokhande-coder/ChatApp) | Real-time chat application | JavaScript |
 
 ## 🌍 Open Source Contributions
 
