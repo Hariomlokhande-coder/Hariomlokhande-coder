@@ -26,14 +26,12 @@
 | [shardingsphere](https://github.com/apache/shardingsphere) | Apache ShardingSphere (distributed SQL). I contribute fixes upstream, see Open Source Contributions below | Java |
 | [DEEP_FAKE_RADAR](https://github.com/Hariomlokhande-coder/DEEP_FAKE_RADAR) | Deepfake detection tool | JavaScript, AI |
 
-## AI & Full Stack Projects
+## More AI Projects
 
 | Project | What it does | Stack |
 |---|---|---|
 | [CodebaseAssistantRAG](https://github.com/Hariomlokhande-coder/CodebaseAssistantRAG) | RAG-based assistant that answers questions about a codebase | C#, LLM, RAG |
-| [DEEP_FAKE_RADAR](https://github.com/Hariomlokhande-coder/DEEP_FAKE_RADAR) | Deepfake detection tool | JavaScript, AI |
 | [AGI-DESKTOP-ASSISTANT](https://github.com/Hariomlokhande-coder/AGI-DESKTOP-ASSISTANT) | Python desktop AI assistant for voice and task automation | Python |
-| [Fake-Payment-Screenshot-Detector](https://github.com/Hariomlokhande-coder/Fake-Payment-Screenshot-Detector) | Detects fake payment screenshots with ML + OCR | Flask, ML, OCR, MongoDB |
 
 ## Open Source Contributions
 
