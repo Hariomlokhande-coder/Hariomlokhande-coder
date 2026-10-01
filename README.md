@@ -1,8 +1,8 @@
-# Hi, I'm Hariom Lokhande 👋
+# Hi, I'm Hariom Lokhande
 
 **Java & Python Full Stack and Backend Developer** and **AI Full Stack Developer**. I build secure, scalable APIs with Spring Boot and Python, and add AI features (RAG, ML, computer vision) to full stack applications.
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
@@ -15,7 +15,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## 🚀 Featured Projects
+## Featured Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -25,7 +25,7 @@
 | [Fake-Payment-Screenshot-Detector](https://github.com/Hariomlokhande-coder/Fake-Payment-Screenshot-Detector) | Detects fake payment screenshots with ML + OCR | Python, Flask, MongoDB |
 | [MOVIE-TICKET-BOOKING](https://github.com/Hariomlokhande-coder/MOVIE-TICKET-BOOKING) | Movie browsing and ticket booking backend with JWT auth | Python, Django |
 
-## 🤖 AI & Full Stack Projects
+## AI & Full Stack Projects
 
 | Project | What it does | Stack |
 |---|---|---|
@@ -34,7 +34,7 @@
 | [AGI-DESKTOP-ASSISTANT](https://github.com/Hariomlokhande-coder/AGI-DESKTOP-ASSISTANT) | Python desktop AI assistant for voice and task automation | Python |
 | [Fake-Payment-Screenshot-Detector](https://github.com/Hariomlokhande-coder/Fake-Payment-Screenshot-Detector) | Detects fake payment screenshots with ML + OCR | Flask, ML, OCR, MongoDB |
 
-## 🌍 Open Source Contributions
+## Open Source Contributions
 
 I actively contribute to open source Java projects. Selected pull requests:
 
@@ -48,17 +48,17 @@ I actively contribute to open source Java projects. Selected pull requests:
 | [QuestDB](https://github.com/questdb/questdb) | [Correct case-sensitivity label in EXPLAIN for constant LIKE/ILIKE](https://github.com/questdb/questdb/pull/7648) | Open |
 | [TenantLayer](https://github.com/tenantlayer-io/tenantlayer) | [Qualify async cache reads with the acting tenant](https://github.com/tenantlayer-io/tenantlayer/pull/42) | Open |
 
-## 📚 Currently
+## Currently
 
 - Deepening Java backend, system design and distributed systems
 - Solving DSA daily ([Striver's A2Z in C++](https://github.com/Hariomlokhande-coder/Strivers-A2Z-DSA-Cpp))
 - Contributing to open source (Apache ShardingSphere, Stirling-PDF, HertzBeat, QuestDB)
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![Hariom's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hariomlokhande-coder&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hariomlokhande-coder&layout=compact&theme=tokyonight&hide_border=true)
 
-## 🤝 Let's connect
+## Let's connect
 
 Open to Java backend opportunities and collaborations. Reach me via [GitHub](https://github.com/Hariomlokhande-coder).
