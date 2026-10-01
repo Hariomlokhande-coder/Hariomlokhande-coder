@@ -1,6 +1,6 @@
 # Hi, I'm Hariom Lokhande 👋
 
-**Java Backend Developer** focused on building secure, scalable APIs with Spring Boot.
+**Java Full Stack & Backend Developer** and **AI Full Stack Developer**. I build secure, scalable APIs with Spring Boot and add AI features (RAG, ML, computer vision) to full stack applications.
 
 ## 🛠️ Tech Stack
 
@@ -24,6 +24,16 @@
 | [polygon-indexer](https://github.com/Hariomlokhande-coder/polygon-indexer) | Real-time Polygon blockchain indexer with netflow dashboard | TypeScript |
 | [Fake-Payment-Screenshot-Detector](https://github.com/Hariomlokhande-coder/Fake-Payment-Screenshot-Detector) | Detects fake payment screenshots with ML + OCR | Python, Flask, MongoDB |
 | [MOVIE-TICKET-BOOKING](https://github.com/Hariomlokhande-coder/MOVIE-TICKET-BOOKING) | Movie browsing and ticket booking backend with JWT auth | Python, Django |
+
+## 🤖 AI & Full Stack Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [CodebaseAssistantRAG](https://github.com/Hariomlokhande-coder/CodebaseAssistantRAG) | RAG-based assistant that answers questions about a codebase | C#, LLM, RAG |
+| [DEEP_FAKE_RADAR](https://github.com/Hariomlokhande-coder/DEEP_FAKE_RADAR) | Deepfake detection tool | JavaScript, AI |
+| [AGI-DESKTOP-ASSISTANT](https://github.com/Hariomlokhande-coder/AGI-DESKTOP-ASSISTANT) | Python desktop AI assistant for voice and task automation | Python |
+| [Fake-Payment-Screenshot-Detector](https://github.com/Hariomlokhande-coder/Fake-Payment-Screenshot-Detector) | Detects fake payment screenshots with ML + OCR | Flask, ML, OCR, MongoDB |
+| [ChatApp](https://github.com/Hariomlokhande-coder/ChatApp) | Real-time chat application | JavaScript |
 
 ## 🌍 Open Source Contributions
 
