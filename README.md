@@ -1,6 +1,6 @@
 # Hi, I'm Hariom Lokhande 👋
 
-**Java Full Stack & Backend Developer** and **AI Full Stack Developer**. I build secure, scalable APIs with Spring Boot and add AI features (RAG, ML, computer vision) to full stack applications.
+**Java & Python Full Stack and Backend Developer** and **AI Full Stack Developer**. I build secure, scalable APIs with Spring Boot and Python, and add AI features (RAG, ML, computer vision) to full stack applications.
 
 ## 🛠️ Tech Stack
 
