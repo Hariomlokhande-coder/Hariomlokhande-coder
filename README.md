@@ -19,7 +19,6 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [tenantlayer](https://github.com/Hariomlokhande-coder/tenantlayer) | Multi-tenant isolation for Spring Boot + Postgres using Row-Level Security | Java, Spring Boot, PostgreSQL |
 | [Banking-Portal](https://github.com/Hariomlokhande-coder/Banking-Portal) | Banking API with JWT + OTP auth, accounts and transactions | Java, Spring Boot, Docker |
 | [Identity-and-Access-Management](https://github.com/Hariomlokhande-coder/Identity-and-Access-Management) | Authentication, authorization and RBAC service | Java, Spring Boot |
 | [ChatApp](https://github.com/Hariomlokhande-coder/ChatApp) | Real-time chat with groups, presence and JWT auth with refresh tokens | C#, .NET 8, SignalR, Angular, SQL Server |
