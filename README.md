@@ -19,11 +19,12 @@
 
 | Project | What it does | Stack |
 |---|---|---|
-| [Banking-Portal](https://github.com/Hariomlokhande-coder/Banking-Portal) | Banking API with JWT + OTP auth, accounts and transactions | Java, Spring Boot, Docker |
-| [Identity-and-Access-Management](https://github.com/Hariomlokhande-coder/Identity-and-Access-Management) | Authentication, authorization and RBAC service | Java, Spring Boot |
 | [ChatApp](https://github.com/Hariomlokhande-coder/ChatApp) | Real-time chat with groups, presence and JWT auth with refresh tokens | C#, .NET 8, SignalR, Angular, SQL Server |
+| [Identity-and-Access-Management](https://github.com/Hariomlokhande-coder/Identity-and-Access-Management) | Authentication, authorization and RBAC service | Java, Spring Boot |
 | [Fake-Payment-Screenshot-Detector](https://github.com/Hariomlokhande-coder/Fake-Payment-Screenshot-Detector) | Detects fake payment screenshots with ML + OCR | Python, Flask, MongoDB |
-| [MOVIE-TICKET-BOOKING](https://github.com/Hariomlokhande-coder/MOVIE-TICKET-BOOKING) | Movie browsing and ticket booking backend with JWT auth | Python, Django |
+| [Banking-Portal](https://github.com/Hariomlokhande-coder/Banking-Portal) | Banking API with JWT + OTP auth, accounts and transactions | Java, Spring Boot, Docker |
+| [shardingsphere](https://github.com/apache/shardingsphere) | Apache ShardingSphere (distributed SQL). I contribute fixes upstream, see Open Source Contributions below | Java |
+| [DEEP_FAKE_RADAR](https://github.com/Hariomlokhande-coder/DEEP_FAKE_RADAR) | Deepfake detection tool | JavaScript, AI |
 
 ## AI & Full Stack Projects
 
