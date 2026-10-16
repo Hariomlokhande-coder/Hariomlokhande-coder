@@ -39,11 +39,16 @@ I actively contribute to open source Java projects. Selected pull requests:
 
 | Project | Contribution | Status |
 |---|---|---|
+| [Apache ShardingSphere](https://github.com/apache/shardingsphere) | [Fix IN predicates with an expression item routing only to some shards](https://github.com/apache/shardingsphere/pull/40129) | Merged |
+| [Apache ShardingSphere](https://github.com/apache/shardingsphere) | [Fix duplicate rows in cross-shard SELECT DISTINCT when NULLs sort first](https://github.com/apache/shardingsphere/pull/40002) | Merged |
 | [Apache ShardingSphere](https://github.com/apache/shardingsphere) | [Fix default nulls order for ClickHouse and Presto](https://github.com/apache/shardingsphere/pull/40015) | Merged |
 | [Apache ShardingSphere](https://github.com/apache/shardingsphere) | [Update paths-filter action to the ASF-allowlisted commit](https://github.com/apache/shardingsphere/pull/40017) | Merged |
-| [Apache ShardingSphere](https://github.com/apache/shardingsphere) | [Fix duplicate rows in cross-shard SELECT DISTINCT when NULLs sort first](https://github.com/apache/shardingsphere/pull/40002) | Open |
+| [DBeaver](https://github.com/dbeaver/dbeaver) | [Fix SQL formatter line comment scan](https://github.com/dbeaver/dbeaver/pull/42356) | Merged |
 | [Apache HertzBeat](https://github.com/apache/hertzbeat) | [Compile Nginx constant regex patterns once](https://github.com/apache/hertzbeat/pull/4398) | Merged |
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | [Skip malformed page tokens consistently in parsePageList](https://github.com/Stirling-Tools/Stirling-PDF/pull/8127) | Merged |
+| [Dinosaur Exploder](https://github.com/jvondermarck/dinosaur-exploder) | [Exclude paused time from game-over survived duration](https://github.com/jvondermarck/dinosaur-exploder/pull/497) | Merged |
+| [Kestra](https://github.com/kestra-io/kestra) | [Run the MySQL LIKE search only when the full-text match finds nothing](https://github.com/kestra-io/kestra/pull/20354) | Open |
+| [Kestra Client SDK](https://github.com/kestra-io/client-sdk) | [Send filters on the execution logs list and download endpoints](https://github.com/kestra-io/client-sdk/pull/471) | Open |
 | [QuestDB](https://github.com/questdb/questdb) | [Correct case-sensitivity label in EXPLAIN for constant LIKE/ILIKE](https://github.com/questdb/questdb/pull/7648) | Open |
 | [TenantLayer](https://github.com/tenantlayer-io/tenantlayer) | [Qualify async cache reads with the acting tenant](https://github.com/tenantlayer-io/tenantlayer/pull/42) | Open |
 
@@ -51,7 +56,7 @@ I actively contribute to open source Java projects. Selected pull requests:
 
 - Deepening Java backend, system design and distributed systems
 - Solving DSA daily ([Striver's A2Z in C++](https://github.com/Hariomlokhande-coder/Strivers-A2Z-DSA-Cpp))
-- Contributing to open source (Apache ShardingSphere, Stirling-PDF, HertzBeat, QuestDB)
+- Contributing to open source (Apache ShardingSphere, DBeaver, Kestra, QuestDB, HertzBeat, Stirling-PDF)
 
 ## GitHub Stats
 
