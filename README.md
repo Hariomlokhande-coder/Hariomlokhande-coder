@@ -63,4 +63,4 @@ I actively contribute to open source Java projects. Selected pull requests:
 
 ## Let's connect
 
-Open to Java backend opportunities and collaborations. Reach me via [GitHub](https://github.com/Hariomlokhande-coder).
+Open to Java full stack opportunities and collaborations. Reach me via [GitHub](https://github.com/Hariomlokhande-coder).
