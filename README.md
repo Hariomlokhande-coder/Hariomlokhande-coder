@@ -45,8 +45,9 @@ I actively contribute to open source Java projects. Selected pull requests:
 | [Apache HertzBeat](https://github.com/apache/hertzbeat) | [Compile Nginx constant regex patterns once](https://github.com/apache/hertzbeat/pull/4398) | Merged |
 | [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) | [Skip malformed page tokens consistently in parsePageList](https://github.com/Stirling-Tools/Stirling-PDF/pull/8127) | Merged |
 | [Dinosaur Exploder](https://github.com/jvondermarck/dinosaur-exploder) | [Exclude paused time from game-over survived duration](https://github.com/jvondermarck/dinosaur-exploder/pull/497) | Merged |
+| [Kestra Client SDK](https://github.com/kestra-io/client-sdk) | [Send filters on the execution logs list and download endpoints](https://github.com/kestra-io/client-sdk/pull/471) | Merged |
+| [Kestra Plugin](https://github.com/kestra-io/plugin-kestra) | [Cover level and task id filters in the logs Fetch test](https://github.com/kestra-io/plugin-kestra/pull/228) | Merged |
 | [Kestra](https://github.com/kestra-io/kestra) | [Run the MySQL LIKE search only when the full-text match finds nothing](https://github.com/kestra-io/kestra/pull/20354) | Open |
-| [Kestra Client SDK](https://github.com/kestra-io/client-sdk) | [Send filters on the execution logs list and download endpoints](https://github.com/kestra-io/client-sdk/pull/471) | Open |
 | [QuestDB](https://github.com/questdb/questdb) | [Correct case-sensitivity label in EXPLAIN for constant LIKE/ILIKE](https://github.com/questdb/questdb/pull/7648) | Open |
 | [TenantLayer](https://github.com/tenantlayer-io/tenantlayer) | [Qualify async cache reads with the acting tenant](https://github.com/tenantlayer-io/tenantlayer/pull/42) | Open |
 
